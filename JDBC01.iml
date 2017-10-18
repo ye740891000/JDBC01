@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../JDBC01/out/production/JDBC01" />
+    <output-test url="file://$MODULE_DIR$/../JDBC01/out/test/JDBC01" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../JDBC01">
+      <sourceFolder url="file://$MODULE_DIR$/../JDBC01/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="mysql-connector-java-5.1.8-bin" level="project" />
+  </component>
+</module>
